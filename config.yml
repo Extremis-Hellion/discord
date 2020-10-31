@@ -1,0 +1,21 @@
+
+is_example_config_or_not: "not_sample_anymore"
+##############################
+bot_token: "1332557789:AAG-IoZIQxXvh2Bj_IEuol_O8a8UTtLYZBs"
+owner_id: 1283371034
+owner_username: "@Extremis_OP"
+database_url: "postgres://username:password@host:5432/database_name"
+message_dump: "-477979644"
+load: []
+no_load: []
+strict_antispam: False
+workers: 4
+allow_excl: False
+deepfry_token: None
+del_cmds: False
+sw_api: ''
+
+# Permission
+sudo_users: []
+support_users: []
+whitelist_users: []
